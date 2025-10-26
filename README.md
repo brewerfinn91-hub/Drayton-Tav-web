@@ -1,6 +1,7 @@
 # Drayton-Tav-web
 Tavern Rota System — Feature Overview
-Design & Theme
+----------------------------------------------
+-Design & Theme-
 
 Dark / Gold tavern theme inspired by the logo
 
@@ -8,7 +9,8 @@ Centered login form with logo displayed above
 
 Tavern-style typography for headers and titles
 
-Automatic Monthly Rota
+--------------------------------------------------------
+-Automatic Monthly Rota-
 
 Auto-generates rota for 1–31 days each month
 
@@ -22,7 +24,8 @@ Publish rota → becomes read-only for barstaff
 
 Automatic monthly generation (runs once per month)
 
-Roles
+---------------------------------------------------------------------
+-Roles-
 
 User Roles:
 
@@ -44,19 +47,20 @@ Autumn — Barstaff
 
 Nathan — Barstaff
 
-Admin Capabilities
+------------------------------------------------------------------------
+-Admin Capabilities-
 
 Generate and publish monthly rota
 
 Auto-assign shifts evenly among barstaff
 
-Highlight unstaffed days
+Highlight unstaffed days in red
 
 Edit / adjust rota manually
+------------------------------------------------------------------------
+-Manage user accounts (create, edit, delete)-
 
-Manage user accounts (create, edit, delete)
-
-Adjust or add hours for staff
+Adjust or add hours for staff (flagged to admins if over 11 hours) 
 
 Approve or decline day-off requests
 
